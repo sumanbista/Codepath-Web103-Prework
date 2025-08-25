@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 - [x] **API calls use the async/await design pattern via fetch()**
 
-- [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
+- [x] **Clicking on a content creator item takes the user to their details page, which includes their name, URL, and description**
 
 - [x] **Each content creator has their own unique URL**
 
@@ -36,7 +36,7 @@ The following **required** functionality is completed:
 
 - [x] **The user can delete a content creator**
 
-- [x] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
+- [x] **The user can add a new content creator by entering a name, URL, or description, and then it is displayed on the homepage**
 
 
 
@@ -47,7 +47,7 @@ The following **optional** features are implemented:
 
 - [x] Picocss is used to style HTML elements
 
-- [x] The content creator items are displayed in a cards
+- [x] The content creator items are displayed in cards
 
 - [x] An image of each content creator is shown on their content creator card
 
@@ -57,13 +57,11 @@ The following **optional** features are implemented:
 
 
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of the implemented required features:
 
 
 
-👉🏿<img src='https://www.loom.com/share/97f1c3de1eb942fd8d1713390c632bc8?sid=f2dc1543-5610-48f8-817d-ec241869e4fe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+👉🏿 [Video Walkthrough]('https://www.loom.com/share/97f1c3de1eb942fd8d1713390c632bc8?sid=f2dc1543-5610-48f8-817d-ec241869e4fe')
 
 Video created with ... 👉🏿 Loom
 
