@@ -61,7 +61,7 @@ Here's a walkthrough of the implemented required features:
 
 
 
-👉🏿 [Video Walkthrough]('https://www.loom.com/share/97f1c3de1eb942fd8d1713390c632bc8?sid=f2dc1543-5610-48f8-817d-ec241869e4fe')
+👉🏿 [Video Walkthrough](https://www.loom.com/share/97f1c3de1eb942fd8d1713390c632bc8?sid=f2dc1543-5610-48f8-817d-ec241869e4fe)
 
 Video created with ... 👉🏿 Loom
 
